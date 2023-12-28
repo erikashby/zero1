@@ -16,7 +16,7 @@
     'name' : 'nodeName1',
     status = {
             'datetime' = 'datetime',
-            'light_status' : [ {'id'= 'led0','state'=0 },{'id'= 'led1','state'=0 }...]
+            'lightstatus' : [ {'id'= 'led0','state'=0 },{'id'= 'led1','state'=0 }...]
         }
 }
 ```
